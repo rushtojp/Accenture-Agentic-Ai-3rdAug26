@@ -2,6 +2,9 @@ azure agent service with langchain
 
 https://learn.microsoft.com/en-us/azure/foundry/how-to/develop/langchain-agents
 
+langchain, langgraph and langflow
+https://www.datacamp.com/tutorial/langchain-vs-langgraph-vs-langsmith-vs-langflow
+
 
 
 #####

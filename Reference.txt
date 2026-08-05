@@ -5,6 +5,10 @@ https://learn.microsoft.com/en-us/azure/foundry/how-to/develop/langchain-agents
 langchain, langgraph and langflow
 https://www.datacamp.com/tutorial/langchain-vs-langgraph-vs-langsmith-vs-langflow
 
+AI agent frameworks
+
+https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio/ai-agent-frameworks
+
 
 
 #####

@@ -1,3 +1,5 @@
+Linkedin : https://www.linkedin.com/in/jayaprakashbalakrishnan/ pls feel free to connect :-)
+
 azure agent service with langchain
 
 https://learn.microsoft.com/en-us/azure/foundry/how-to/develop/langchain-agents

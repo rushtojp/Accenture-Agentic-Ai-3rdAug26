@@ -9,6 +9,10 @@ AI agent frameworks
 
 https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio/ai-agent-frameworks
 
+Certification posters - Microsoft cloud/data/ai certifications
+
+https://arch-center.azureedge.net/Credentials/Certification-Poster_en-us.pdf
+
 
 
 #####
